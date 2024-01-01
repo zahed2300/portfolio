@@ -16,6 +16,7 @@ body{
 	height:150px;
 }
 .message{
+	width:100%;
 	text-align:center;
 }
 #hello_message{
